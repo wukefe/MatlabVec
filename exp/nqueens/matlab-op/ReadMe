@@ -1,0 +1,18 @@
+Usage:
+    runNQueens(16);
+
+Files:
+    runNQueens.m
+    - nqueen_cpu.m
+    - nqueen_solver1.m
+    - nqueen_solver.m
+    - bit_scan.m
+    - SafeShift.m
+
+Layout:
+
+runNQueens
++ nqueen_cpu
+  - nqueen_solver1
+  - nqueen_solver
+

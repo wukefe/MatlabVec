@@ -10,3 +10,9 @@ Our project aims to prove the vectorization is able to help automatically genera
 - Tamer framework (Developed by Sable/McGill)
 - Java IDE (Eclipse or IntelliJ IDEA)
 
+## File structure
+
+exp/
+
+- Files for experiments
+

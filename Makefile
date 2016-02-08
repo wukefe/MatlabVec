@@ -1,6 +1,6 @@
 
 commit:
-	git add -A && git commit
+	git commit
 
 diff:
 	git diff --cached

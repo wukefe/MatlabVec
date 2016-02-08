@@ -1,0 +1,26 @@
+branch-and-bound       /nqueens
+combinational-logic    /crc
+dense-linear-algebra   /lud
+dynamic-programming    /nw
+graph-traversal        /bfs
+graphical-models       /hmm
+map-reduce             /page-rank
+n-body-methods         /lavamd
+sparse-linear-algebra  /spmv
+spectral-methods       /fft
+structured-grid        /SRAD
+unstructured-grid      /back-propagation
+
+
+nqueens
+
+1. variable reduction
+x = x + val; --> x = sum(val);
+
+2. data replication
+vector --> matrix
+// because of the shape of argument shapes
+May develop shape change analysis
+
+3. for-if transformation
+Same LHS in if assignment

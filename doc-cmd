@@ -1,0 +1,9 @@
+Check out the latest Matlab branch:
+
+git clone https://github.com/Sable/Ostrich
+git checkout matlab-version
+git checkout b04e7c013127e578e580c77ecaf28aaab54f125f
+
+// committed on Nov 16, 2015
+
+
