@@ -1,0 +1,22 @@
+
+page rank:
+[problem] 'commonRandom' is undefined.
+
+Original   --> 74.21081 s
+Vecgorized --> 3.133126 s
+~ 23.7 times speedup
+
+
+lud:
+[problem] Undefined function or variable 'createMatrixFromRandom'.
+
+Original   --> 15.884322 s
+Vecgorized --> 5.651158  s
+~ 2.8 times speedup
+
+fft: (recursive)
+[warning] FFT -> fft (case sensistive on Unix)
+
+Original   --> 22.128133 s
+Vecgorized --> 26.040380 s
+~ 0.85 times speedup

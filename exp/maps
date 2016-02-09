@@ -1,3 +1,6 @@
+# copy from source folder
+cp -r ~/Documents/GitHub/Ostrich/map-reduce/page-rank/matlab page-rank
+
 branch-and-bound       /nqueens
 combinational-logic    /crc
 dense-linear-algebra   /lud
